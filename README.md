@@ -1,55 +1,47 @@
 <h1 align="center">Hi 👋, I'm Jikrana Machhaliya</h1>
-<h3 align="center">Full Stack Developer (MERN) | Open Source Contributor</h3>
+<h3 align="center">Full Stack Developer | MERN Stack | React & Node.js</h3>
 
 ---
 
-## 🚀 Tech Stack  
-
-### 🎨 Frontend  
-<p>
-  <img src="https://skillicons.dev/icons?i=html" height="40"/>
-  <img src="https://skillicons.dev/icons?i=css" height="40"/>
-  <img src="https://skillicons.dev/icons?i=js" height="40"/>
-  <img src="https://skillicons.dev/icons?i=react" height="40"/>
-  <img src="https://skillicons.dev/icons?i=redux" height="40"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40"/>
-</p>
-
-### 🖥️ Backend  
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40"/>
-  <img src="https://skillicons.dev/icons?i=express" height="40"/>
-</p>
-
-### 🗄️ Database  
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40"/>
-</p>
-
-### 🔧 Tools  
-<p>
-  <img src="https://skillicons.dev/icons?i=git" height="40"/>
-  <img src="https://skillicons.dev/icons?i=github" height="40"/>
-  <img src="https://skillicons.dev/icons?i=vscode" height="40"/>
-  <img src="https://skillicons.dev/icons?i=postman" height="40"/>
-</p>
+## 🚀 About Me  
+- 🌱 Currently learning and building **MERN Stack Projects**  
+- 💻 Experienced in **Full Stack Development (Frontend + Backend + Database)**  
+- 🔥 Exploring **Advanced React, APIs, Redux Toolkit, Authentication & MongoDB**  
 
 ---
 
-## 📌 About Me  
-- 🔭 I’m learning **MERN Stack**  
-- 🌱 Open Source Contributor  
-- 💬 Ask me about **React, JavaScript, Node.js**  
-- ⚡ Passionate about building real-world projects  
+## 🧩 Tech Stack  
+
+### **Frontend:**  
+HTML, CSS, JavaScript, React, Redux, Redux Toolkit, Tailwind CSS, Bootstrap  
+
+### **Backend:**  
+Node.js, Express.js  
+
+### **Database:**  
+MongoDB  
+
+### **Other Skills:**  
+API Integration, Authentication, Git, GitHub, VS Code  
 
 ---
 
-## 📫 Connect With Me  
-<p>
-  <a href="https://github.com/jikrana-del">
-    <img src="https://skillicons.dev/icons?i=github" height="40"/>
-  </a>
-  <a href="https://www.linkedin.com">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-  </a>
-</p>
+## 🌟 Featured Projects  
+
+### 🔹 **Masjid Minar Website** – React, Redux, Router  
+### 🔹 **Hotel Website** – Fully Responsive UI  
+### 🔹 **Recipe Discovery App** – JavaScript + API Integration  
+
+➡️ *More projects available in my repositories!*
+
+---
+
+## 📬 Contact  
+
+**Email:** jikranamachhaliya1234@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/jikrana-machhaliya-622738387/
+
+---
+
+⭐ *If you like my work, consider giving a star to my repositories!*
+
