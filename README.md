@@ -19,7 +19,7 @@ HTML, CSS, JavaScript, React, Redux, Redux Toolkit, Tailwind CSS, Bootstrap
 Node.js, Express.js  
 
 ### **Database:**  
-MongoDB  
+MongoDB , Mongoose
 
 ### **Other Skills:**  
 API Integration, Authentication, Git, GitHub, VS Code  
